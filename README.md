@@ -4,3 +4,4 @@ This yould be used to
 - get to know github
 - work as a team
 - use tools for the future
+- Get Pull Request for Hacktoberfest
